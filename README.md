@@ -68,8 +68,27 @@ volumes:
 ## Acceder a SonarQube
 
 Abre tu navegador y accede a:
-[Texto del enlace](http://localhost:9000)
+[http://localhost:9000](http://localhost:9000)
 
-### Paso 1: Loggearse con usuario admin y pass admin
-![Texto alternativo](/images/2.png)
+### Paso 1: Loggearse en SonarQube
+Ingrese con usuario admin y contraseña admin
+
+### Paso 2: Cree un proyecto local
+
+![Texto alternativo](/images/3.png)
+
+### Paso 3: Configure y cree el proyecto
+![Texto alternativo](/images/4.png)
+
+### Paso 4: Genere el token
+![Texto alternativo](/images/5.png)
+
+### Paso 5: Configure de acuerdo a las caracteristicas de su proyecto y máquina
+![Texto alternativo](/images/6.png)
+
+### Paso 6: Ejecute el scanner en el directorio del proyecto que desea analizar
+![Texto alternativo](/images/8.png)
+
+### Paso 7: Revise los reportes y analisis
+![Texto alternativo](/images/7.png)
 
